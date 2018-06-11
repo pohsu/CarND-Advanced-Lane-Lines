@@ -1,0 +1,15 @@
+# dir #
+data/
+load_models/
+save_models/
+backup/
+tmp/
+submission/
+slim/
+__pycache__/
+Grader/
+
+# Log #
+.ipynb_checkpoints/
+
+# cache #
